@@ -1,6 +1,5 @@
 package com.gkpoter.client.atest;
 
-import com.gkpoter.client.SocketServerUDP;
 
 import java.io.IOException;
 import java.net.*;
